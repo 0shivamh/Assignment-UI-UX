@@ -49,3 +49,12 @@
 .subtitle{
     color: gray;
 }
+.FAQ{
+    margin-top: 30px;
+    margin: 10px;
+}
+.accordion-button:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
